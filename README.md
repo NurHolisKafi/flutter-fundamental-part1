@@ -1,16 +1,34 @@
-# tugas_praktikum_16
+# hello world
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot hello world](images/01.PNG)
 
-This project is a starting point for a Flutter application.
+## Praktikum 3
 
-A few resources to get you started if this is your first Flutter project:
+Langkah 1 Text Widget
+![Screenshot hello world](images/02.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Langkah 2 Image Widget
+
+![Screenshot hello world](images/03.PNG)
+
+## Praktikum 4
+Langkah 1: Cupertino Button dan Loading Bar
+![Screenshot hello world](images/04.PNG)
+
+Langkah 2: Floating Action Button (FAB)
+![Screenshot hello world](images/05.PNG)
+
+Langkah 3: Scaffold Widget
+![Screenshot hello world](images/06.PNG)
+
+Langkah 4: Dialog Widget
+![Screenshot hello world](images/07.PNG)
+
+Langkah 5: Input dan Selection Widget
+![Screenshot hello world](images/08.PNG)
+
+Langkah 6: Date and Time Pickers
+![Screenshot hello world](images/09.PNG)
