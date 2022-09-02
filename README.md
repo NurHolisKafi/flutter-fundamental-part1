@@ -1,4 +1,4 @@
-## Praktikum 1: Membuat Project Flutter Baru
+## Praktikum 1 dan 2
 
 A new Flutter project.
 
